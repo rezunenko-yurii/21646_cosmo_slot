@@ -1,0 +1,7 @@
+[
+	{"Id":"com.cosmslot.devslot.2000", "ProductPackId":"bundle.shop.1", "ProductType": "Consumable", "Money": {"Type":"Dollars", "Amount": "0"}},
+	{"Id":"com.cosmslot.devslot.7000", "ProductPackId":"bundle.shop.2", "ProductType": "Consumable", "Money": {"Type":"Dollars", "Amount": "0"}},
+	{"Id":"com.cosmslot.devslot.10000", "ProductPackId":"bundle.shop.3", "ProductType": "Consumable", "Money": {"Type":"Dollars", "Amount": "0"}},
+	{"Id":"com.cosmslot.devslot.20000", "ProductPackId":"bundle.shop.4", "ProductType": "Consumable", "Money": {"Type":"Dollars", "Amount": "0"}},
+	{"Id":"com.cosmslot.devslot.magic", "ProductPackId":"bundle.shop.5", "ProductType": "Consumable", "Money": {"Type":"Dollars", "Amount": "0"}},
+]

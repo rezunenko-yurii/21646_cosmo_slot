@@ -1,0 +1,4 @@
+repository "Cosmo Slot (1)@ExhaleGames_org@cloud"
+  path "/"
+    smartbranch "/main/slots"   
+     
